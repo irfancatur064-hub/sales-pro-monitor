@@ -1,5 +1,2 @@
-# pnpm workspace configuration
 packages:
-  - .
-
-autoInstallPeers: true
+  - "."
